@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Hacer un MCP",
+    "completada": true
+  },
+  {
+    "id": 2,
+    "descripcion": "Hacer un video del funcionamiento",
+    "completada": true
+  },
+  {
+    "id": 3,
+    "descripcion": "Subirlo a github",
+    "completada": false
+  },
+  {
+    "id": 4,
+    "descripcion": "Entregar la tarea",
+    "completada": false
+  }
+]
